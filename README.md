@@ -1,7 +1,3 @@
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h1 align="left">Hey 👋</h1>
 
 ###
@@ -68,23 +64,21 @@ Fork on Github
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/eman-alawnah-518b5b285/"/>
+  <a href="https://www.linkedin.com/in/eman-alawnah-518b5b285/">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
       </a>
 
    <a href="https://x.com/SP2F5MDQbDgQlLc">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-
     </a>
 
     <a href="https://www.instagram.com/imanalawnah/">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-
-    </a>
+       </a>
 
      <a href="https://www.facebook.com/alawnah.eman">
-       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-    </a>
+         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+       </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
